@@ -1,0 +1,60 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Aliny G. Tristao
+title: Computer Network System Administrator and Security Analyst
+email: alinytristao@gmail.com
+website: github.com/alinytristao
+
+# Social links
+twitter_username: alinytristao
+github_username:  alinytristao
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: alinytristao
+linkedin_username: alinytristao
+# pinterest_username: jekyll
+youtube_username: alinytristao
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I am a Computer Network Analyst with over 10 years of experience in implementing security policies and controls using the Windows Operating System in large companies in Brazil. Competencies based on best practices of ITIL, COBIT, ISO 20,000 and family ISO 27,000. Expertise in management and control of users, computers and network resources. Implementation, maintenance and updating of physical and virtual servers, data backup and antivirus. Teamwork skills and rapid adaptation to new processes, activities and environments; build good personal relationships. Information Security evangelist, Cloud and CISSP enthusiastic student. Employing technology safely and effectively improving business processes is what keeps me in love with work.
+
+  I am most skilled in: <mark>Windows Server</mark> and <mark>Security Policies</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and System administration some of my other interests and hobbies are:
+   - CISSP certification
+   - Drones
+   - Trips
+   - [Becoming a writer](https://medium.com/@alinytristao)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
