@@ -1,0 +1,30 @@
+- layout: left
+  company: SESC - Serviço Social do Comercio - Goias - Brazil
+  link: https://www.sescgo.com.br/
+  job_title: Senior Network Computer and Security Analyst
+  dates: 2011 - 2018 
+  quote: >
+   Implementing security in IT services by delivering information availability, integrity and confidentiality.21st century problems by diging holes and Creating Innovative Solutions.
+  description: | # this will include new lines to allow paragraphs
+    Support and maintain the hardware and software infrastructure, 2,000 stations (Dell, Lenovo, IBM) and 100 network servers (Dell/IBM/Virtual) (Microsoft operating system). Identify and evaluate potential threats and vulnerabilities in the data network. Report the risks identified and present plans for corrections or mitigation of risks. Develop manuals and procedures to make all network users aware of the importance of Security Policies. Monitor threats in real time. Implement security controls. Examine and evaluate security incidents. Access Control for directories and network users. (Active Directory). Restructure the access permissions allowing the identification of each access and the limitation of reach to what is necessary. Prepare and monitor the data backup and restore routine (Backup Exec - Veritas, Backup Azure). Elaborate the Company's Information Security Policy, including standards, terms, manuals and policies, business continuity plan, contingency plans and disaster recovery. Troubleshooting staggered by technical support. (ManageEngine ServiceDesk Plus). Lead and assist the execution of projects and services together with third parties. Respond by the company's technology team in the absence of the Coordinator.
+
+- layout: left
+  company: PAV - Civil Engineering - Goias - Brazil
+  link: https://www.pavengenharia.com.br/
+  job_title: System Admin and Security Analyst
+  dates: 2017 - 2019 
+  quote: >
+   Creating efficient and appropriate solutions to support the business operational processes.
+  description: | # this will include new lines to allow paragraphs
+    Support remotely small business, guiding the efficient, effective and safe use of technology to add value to business. Teach, monitor and support personal demands and projects related to System and Network Administration also Information Security.
+
+- layout: left
+  company: Brasil Center Comunication  - BCC - Goias - Brazil
+  link: https://www.brasilcenter.com.br/
+  job_title: Technical Support
+  dates: 2006 - 2011 
+  quote: >
+   Ensure customer satisfaction through efficient and effective service delivery.
+  description: | # this will include new lines to allow paragraphs
+    Technical Support in service to the company Telmex and other companies of Embratel Telecomunication clients. Solving problems with the links of data communications, internet, telephony and dns configurations. Serving customers for opening requests, solving first level operational problems, setting dns configurations and escalating problems to other service areas.
+    

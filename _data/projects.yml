@@ -1,0 +1,9 @@
+- layout: top-middle
+  name: Super awesome projects
+  link:  https://www.linkedin.com/company/in-time-to-share
+  github: alinytristao/ITTS
+  quote: >
+    In Progress: In Time to Share. Initiative that aims to do to others what you want them to do for you! Sharing your time with someone who needs specific advice or tips.
+  description: | # this will include new lines to allow paragraphs
+            Projects Already Delivered: <mark>Backup Exec:</mark> Backup routines of important company data. Backup Routine and Redundancy using: Backup Exec - Veritas, Azure Backup, Replica of vm with Hyper-V. <mark>Security Police:</mark> Structure, document and revise standards, terms, plans and policies for the use of technology. <mark>Business Continuity Plan:</mark>. Structure, document and review the continuity plan aligned with the institution's guidelines. <mark>Office 365 Enterprise E1:</mark>. Request use, migration for hybrid use of email accounts. <mark>Server Virtualization:</mark>. Migration of IBM physical servers to virtual servers in a 4-host in cluster and an equallogic storage in a dell redundancy environment. <mark>Help Desk:</mark>. Restructure using ITIL through the Helpdesk service desk tool. <mark> ELAS - IT Europe :</mark> - A community that aims to increase and strengthen the female presence in IT events in Europe, focusing on Dublin. It also has the purpose of sharing experiences, knowledge between us, women who work or are studying in the area of Information Technology in Europe.
+            

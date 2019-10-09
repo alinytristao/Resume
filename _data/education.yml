@@ -1,0 +1,28 @@
+- layout: left
+   
+  name:  FATESG-GO, Brazil
+  dates: 2015 - 2017 - NFQ - Level 9 / EQF - Level 7
+  qualification: Computer network security - Postgraduate Degree 
+  quote: >   
+  description: | # this will include new lines to allow paragraphs
+    Subjects: Introduction to Information Security. Linux. Cryptography. Methodology of Scientific Work. TCP / IP Architecture Protocol. Proprietary OS Security. Strategic Planning in Networks. Installation and Configuration of Services. Network and Computer Protection. OS Protection and Services. Security Support Protocols. Security Support Services and Applications. Open OS Security. Security in Software Development. Network analysis and audit. Security Policies. Computer Law and Ethics. Final work.
+ 
+- layout: left    
+    
+  name:  FATESG-GO, Brazil
+  dates: 2008 - 2011 - NFQ - Level 7 / EQF - Level 6
+  qualification: Computer network - Graduate Degree 
+  quote: > 
+  description: | # this will include new lines to allow paragraphs
+    Subjects: English Instrumental. Portuguese Instrumental. Computer Fundamentals. Data Communication. Network Basics. Aplicated Math. Operational Systems. Computer Architecture. Algorithms. Business Management. Networks in Free Operating Systems. Database. Computer Legislation. Structured Programming Language. Networks in Proprietary Operating Systems. Entrepreneurship. Ethics in Informatica. Web Server. Application Servers.Development for Internet. High Speed ​​Networks. Network Security. Wireless Networks. Network Management. Networking Projects. Final work. Internship.
+    
+- layout: left    
+    
+  name:  Certification EXIN and ISACA
+  dates: 2013
+  qualification: ISO 27002; COBIT Foundation; ITIL Foundation; ISO 20000.
+  quote: > 
+  description: | # this will include new lines to allow paragraphs
+    International information security certifications and best practices in IT processes and services.
+    
+    
