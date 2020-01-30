@@ -24,7 +24,7 @@ youtube_username: alinytristao
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am a Computer Network Analyst with over 10 years of experience in implementing security policies and controls using the Windows Operating System in large companies in Brazil. Competencies based on best practices of ITIL, COBIT, ISO 20,000 and family ISO 27,000. Expertise in management and control of users, computers and network resources. Implementation, maintenance and updating of physical and virtual servers, data backup and antivirus. Teamwork skills and rapid adaptation to new processes, activities and environments; build good personal relationships. Information Security evangelist, Cloud and CISSP enthusiastic student. Employing technology safely and effectively improving business processes is what keeps me in love with work.
+  Hi, I am a Computer Network Analyst with over 6 years of experience in implementing security policies and controls using the Windows Operating System in large companies in Brazil. Competencies based on best practices of ITIL, COBIT, ISO 20,000 and family ISO 27,000. Expertise in management and control of users, computers and network resources. Implementation, maintenance and updating of physical and virtual servers, data backup and antivirus. Teamwork skills and rapid adaptation to new processes, activities and environments; build good personal relationships. Information Security evangelist, Cloud and CISSP enthusiastic student. Employing technology safely and effectively improving business processes is what keeps me in love with work.
 
   I am most skilled in: <mark>Windows Server</mark> and <mark>Security Policies</mark>
 
@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
    - CISSP certification
    - Drones
    - Trips
-   - [Becoming a writer](https://medium.com/@alinytristao)
+   - [Sharing information ](https://medium.com/@alinytristao)
 
 # Footer
 footer_show_references: true
